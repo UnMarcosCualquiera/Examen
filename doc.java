@@ -82,7 +82,7 @@ public interface doc
     */
    /**
     * @poscondicion
-    * Devuelve dos floats que representan la latitud y altitud de la calle.
+    * Devuelve dos floats que representan la latitud y altitud de la calle .
     */
    
 
